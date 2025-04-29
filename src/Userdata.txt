@@ -1,0 +1,12 @@
+MichalopoulosA,Mich@2024,3
+StekosP,Stek0sP2024,3
+NeisiM,NeisiM#2024,2
+KaratziouD,Kar@tz1ouD2024,1
+BatsarisN,Bat$arisN2024,3
+DucielE,DucielE!2024,1
+NomikosT,Nom1kosT2024,2
+test,test,1
+test3,test44,4
+test55,test56,4
+tets,tets,4
+report,test,4

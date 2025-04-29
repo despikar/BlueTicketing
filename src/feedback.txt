@@ -1,0 +1,7 @@
+test,Neutral
+test,Very satisfied
+test,Very dissatisfied
+test,Somewhat dissatisfied
+test,Neutral
+test,somewhat satisfied
+test,Very satisfied
