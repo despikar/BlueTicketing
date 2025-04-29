@@ -33,7 +33,7 @@ BlueTicketing/
 
    java -jar BlueTicketing.jar
 
-> Make sure Java is installed on your machine. You can check using `java -version`.
+> Make sure you have **Java 21 or higher** installed. You can check using `java -version`.
 
 ## 👨‍💻 Authors
 
